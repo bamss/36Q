@@ -35,3 +35,6 @@ button {
     margin-top: 50PX;
     text-align: center;
   }
+  #gif-me{
+    max-width: 100%;
+  }
